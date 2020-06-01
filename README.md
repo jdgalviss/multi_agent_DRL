@@ -7,7 +7,7 @@
 
 
 
-Collaboration and Competition with Deep Reinforcement Learning
+# Collaboration and Competition with Deep Reinforcement Learning
 
 ### Introduction
 
